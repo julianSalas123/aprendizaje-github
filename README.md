@@ -4,4 +4,5 @@
 
 ## Notas
 
-Nuevos cambios agregados...Desde mi repositorio local...GIthub/git
+
+Nuevos cambios agregados...Desde mi repositorio local...GIthub/git.
