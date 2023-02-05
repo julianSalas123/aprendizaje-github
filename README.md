@@ -4,6 +4,4 @@
 
 ## Notas
 
-Nuevos cambios agregados...Desde GitHub....
-
-Segundo intento
+Nuevos cambios agregados...Desde mi repositorio local...
